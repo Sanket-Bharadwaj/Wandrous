@@ -72,7 +72,7 @@ export function Navigation() {
             <Link to="/dashboard" className="flex items-center space-x-2">
               <Globe className="h-8 w-8 text-primary" />
               <span className="text-xl font-bold bg-gradient-ocean bg-clip-text text-transparent">
-                TravelList
+                Wandrous
               </span>
             </Link>
 
