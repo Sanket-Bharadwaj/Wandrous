@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me in a .md file
-
-To convert the above content into a `README.md` file, simply copy the following text and save it as `README.md` in your project folder:
-
-```markdown
 # TravelList - Premium Travel Bucket List Website
 
 A beautiful, multi-language travel bucket list application that helps users track, plan, and share their global travel adventures.
@@ -127,12 +120,10 @@ nvm use --lts
 
 ### 1. Clone the Repository
 
-```
-
 git clone https://github.com/Sanket-Bharadwaj/travellist.git
 cd travellist
 
-```
+
 
 ### 2. Install Dependencies
 
@@ -416,7 +407,3 @@ This project is available under the MIT License.
 
 **Sanket Bharadwaj**  
 GitHub: [github.com/Sanket-Bharadwaj](https://github.com/Sanket-Bharadwaj)
-```
-
-Just paste the above block into a file named `README.md` in your project root directory. All markdown formatting is ready for use!
-
