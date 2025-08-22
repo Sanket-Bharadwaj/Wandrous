@@ -259,7 +259,7 @@ const Dashboard = () => {
             <CardHeader>
               <CardTitle className="flex items-center space-x-2">
                 <MapPin className="h-5 w-5 text-primary" />
-                <span>Welcome to TravelList!</span>
+                <span>Welcome to Wandrous!</span>
               </CardTitle>
               <CardDescription>
                 Start your travel journey today
