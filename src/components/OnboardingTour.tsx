@@ -34,7 +34,7 @@ export function OnboardingTour({ isOpen, onClose, onComplete }: OnboardingTourPr
   const steps: OnboardingStep[] = [
     {
       id: 'welcome',
-      title: 'Welcome to TravelList! 🌍',
+      title: 'Welcome to Wandrous! 🌍',
       description: 'Your premium travel companion for tracking dreams, planning adventures, and celebrating memories.',
       icon: Globe,
     },
